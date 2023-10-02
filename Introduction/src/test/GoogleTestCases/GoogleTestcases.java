@@ -21,6 +21,7 @@ public class GoogleTestcases extends BaseClass {
 		gsp.Textsearch("Dog");
 		gsp.quit();
 		Reporter.log("=====testcase Session ended=====", true);
+		Reporter.log("=====happy coding=====", true);
 	}
 
 }
